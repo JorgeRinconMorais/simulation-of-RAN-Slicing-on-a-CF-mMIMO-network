@@ -29,7 +29,7 @@ Para ejecutar las simulaciones, se recomienda contar con:
 
 2. Navega al directorio de scripts y ejecuta los archivos MATLAB
    ```cd TFG/Source
-  matlab main.mlx
+   matlab main.mlx
 
 ## Contribuciones
 ...
