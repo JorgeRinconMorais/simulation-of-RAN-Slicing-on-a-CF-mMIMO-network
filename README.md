@@ -11,7 +11,7 @@ El objetivo de este trabajo es investigar la aplicación de RAN Slicing para ges
 
 - **`/Results`** : Contiene los resultados de las simulaciones realizadas.
 - **`/Source`** : Contiene todos los scripts de MATLAB utilizados para realizar las simulaciones.
-- - **`/Docs`** : Contiene la memoria del trabajo.
+- **`/Docs`** : Contiene la memoria del trabajo.
 
 ## Contribuciones
 Cualquier contribución será bienvenida, ya sea para reportar errores, sugerir mejoras o proponer cambios en el proyecto. Si tienes dudas sobre cómo colaborar, no dudes en ponerte en contacto a través de jrinconmorais@gmail.com.
