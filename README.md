@@ -1,7 +1,6 @@
 # Implementación de RAN Slicing sobre una red Cell-Free Massive MIMO
 
-Este repositorio contiene el código fuente y las simulaciones utilizadas para el Trabajo de Fin de Grado titulado  
-**"Implementación de RAN Slicing sobre una red Cell-Free Massive MIMO"**.  
+Este repositorio contiene el código fuente y las simulaciones utilizadas para el Trabajo de Fin de Grado titulado **"Implementación de RAN Slicing sobre una red Cell-Free Massive MIMO"**.  
 
 ## Objetivo del trabajo
 
