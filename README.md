@@ -7,10 +7,9 @@ Este repositorio contiene el código fuente y las simulaciones utilizadas para e
 El objetivo de este trabajo es investigar la aplicación de RAN Slicing para gestionar de manera eficiente múltiples usuarios, nodos, servicios, tráficos o aplicaciones con diferentes requerimientos de QoS sobre una infraestructura de red común a nivel RAN. Al implementar RAN Slicing en una red física basada en CF-mMIMO, se buscará aprovechar las ventajas de propagación de este tipo de red, permitiendo optimizar el aprovisionamiento de slices en función de los QoS específicos de cada aplicación.
 
 ## Estructura del repositorio
-
+- **`/Docs`** : Contiene la memoria y la presentación del trabajo.
 - **`/Results`** : Contiene los resultados de las simulaciones realizadas.
 - **`/Source`** : Contiene todos los scripts de MATLAB utilizados para realizar las simulaciones.
-- **`/Docs`** : Contiene la memoria y la presentación del trabajo.
 
 ## Contribuciones
 Cualquier contribución será bienvenida, ya sea para reportar errores, sugerir mejoras o proponer cambios en el proyecto. Si tienes dudas sobre cómo colaborar, no dudes en ponerte en contacto a través de jrinconmorais@gmail.com.
